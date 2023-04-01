@@ -1,0 +1,30 @@
+{
+  "name": "org-labels",
+  "version": "1.0.0",
+  "description": "Manage the GitHub labels of your organization repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eomm/org-labels.git"
+  },
+  "keywords": [],
+  "author": "Manuel Spigolon <behemoth89@gmail.com> (https://github.com/Eomm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eomm/org-labels/issues"
+  },
+  "homepage": "https://github.com/Eomm/org-labels#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "github-label-sync": "^2.3.1"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}

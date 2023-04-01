@@ -1,0 +1,148 @@
+[
+  {
+    "name": "good first issue",
+    "color": "168700",
+    "description": "Good for newcomers",
+    "aliases": [
+      "good-first-issue"
+    ]
+  },
+  {
+    "name": "greenkeeper",
+    "delete": true
+  },
+  {
+    "name": "hacktoberfest",
+    "delete": true
+  },
+  {
+    "name": "javascript",
+    "color": "e0ffe2",
+    "description": "Pull requests that update Javascript code"
+  },
+  {
+    "name": "hacktoberfest-accepted",
+    "delete": true
+  },
+  {
+    "name": "benchmark",
+    "color": "3FEA81",
+    "description": "Label to run benchmark against PR and main branch",
+    "aliases": [
+      "banchmark"
+    ]
+  },
+  {
+    "name": "semver-major",
+    "color": "d93f0b",
+    "description": "Issue or PR that should land as semver major",
+    "aliases": [
+      "breaking change",
+      "api change"
+    ]
+  },
+  {
+    "name": "semver-minor",
+    "color": "5aed6b",
+    "description": "Issue or PR that should land as semver minor",
+    "aliases": [
+      "enhancement",
+      "feature"
+    ]
+  },
+  {
+    "name": "bugfix",
+    "color": "e99695",
+    "description": "Issue or PR that should land as semver patch",
+    "aliases": []
+  },
+  {
+    "name": "bug",
+    "color": "ee0701",
+    "description": "Confirmed bug"
+  },
+  {
+    "name": "chore",
+    "color": "005f72",
+    "description": "Small changes or internal project maintenance"
+  },
+  {
+    "name": "documentation",
+    "color": "fef2c0",
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "name": "duplicate",
+    "color": "666666",
+    "description": "This issue or PR already exists"
+  },
+  {
+    "name": "feature request",
+    "color": "a78ced",
+    "description": "New feature to be added"
+  },
+  {
+    "name": "github actions",
+    "color": "000000",
+    "description": "Github actions related",
+    "aliases": [
+      "github_actions"
+    ]
+  },
+  {
+    "name": "need info",
+    "color": "5319e7",
+    "description": "More information is needed to resolve this issue",
+    "aliases": [
+      "missing discussion",
+      "missing reproduction"
+    ]
+  },
+  {
+    "name": "missing types",
+    "color": "1D76DB",
+    "description": "PR that does not implement TypeScript changes",
+    "aliases": [
+      "missing-types"
+    ]
+  },
+  {
+    "name": "typescript",
+    "color": "0061ca",
+    "description": "TypeScript related",
+    "aliases": [
+      "ts"
+    ]
+  },
+  {
+    "name": "question",
+    "color": "cc317c",
+    "description": "General question about the project"
+  },
+  {
+    "name": "plugin suggestion",
+    "color": "c99e02",
+    "description": "Ideas for new plugins"
+  },
+  {
+    "name": "discussion",
+    "color": "c5def5",
+    "description": "Issues or PRs with this label will never stale",
+    "aliases": [
+      "never stale"
+    ]
+  },
+  {
+    "name": "help wanted",
+    "color": "ff6ba1",
+    "description": "Help the community by contributing to this issue"
+  },
+  {
+    "name": "wontfix",
+    "color": "2b111b",
+    "description": "This will not be worked on, the behavior is intended",
+    "aliases": [
+      "invalid"
+    ]
+  }
+]
